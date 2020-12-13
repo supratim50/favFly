@@ -33,14 +33,14 @@ body {
 }
 
 .text-paragraph {
-  font-size: 17px !important;
+  font-size: 15px !important;
   line-height: 139.31% !important;
   letter-spacing: 1px !important;
 }
 
 @media screen and (max-width: 991px) {
   .text-paragraph {
-    font-size: 15px !important;
+    font-size: 13px !important;
     line-height: 21px !important;
   }
 }
